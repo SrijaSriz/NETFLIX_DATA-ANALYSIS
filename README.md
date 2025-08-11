@@ -6,7 +6,7 @@ Data was cleaned and preprocessed using Python before being imported into Tablea
 ---
 
 ## 📊 View the Dashboard
-[**Click here to view on Tableau Public**](https://public.tableau.com/views/tableau_Netflix_17549048229050/DASHBOARD)
+[**Click here to view on Tableau Public**](https://public.tableau.com/app/profile/srija.mandavilli/viz/tableau_Netflix_17549048229050/DASHBOARD?publish=yes)
 
 ---
 
